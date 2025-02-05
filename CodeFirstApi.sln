@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApi", "CodeFirstApi\CodeFirstApi.csproj", "{1F7904D5-4B3A-47DC-8F54-04E5BF4BBDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{E26D14FA-32FC-415A-A9C2-58CBD8045BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7904D5-4B3A-47DC-8F54-04E5BF4BBDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7904D5-4B3A-47DC-8F54-04E5BF4BBDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7904D5-4B3A-47DC-8F54-04E5BF4BBDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7904D5-4B3A-47DC-8F54-04E5BF4BBDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26D14FA-32FC-415A-A9C2-58CBD8045BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26D14FA-32FC-415A-A9C2-58CBD8045BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26D14FA-32FC-415A-A9C2-58CBD8045BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26D14FA-32FC-415A-A9C2-58CBD8045BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
